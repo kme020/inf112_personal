@@ -1,7 +1,7 @@
 
 public class FizzBuzz {
     public String convert(int input) {
-        if(input % 5 == 0) {
+        if(input == 3) {
             return "fiz";
         }
         if(input == 5) {
